@@ -1,0 +1,15 @@
+{
+  "name": "03_basesnode",
+  "version": "1.0.0",
+  "description": "Esto es una aplicación de línea de comandos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel García Miranda",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.1.0"
+  }
+}
